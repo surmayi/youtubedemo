@@ -1,5 +1,10 @@
 bfskvfhasvjhrveaireabhello
 hello
 hello
+<<<<<<< HEAD
+ub9vsukbvkeo
+fbsiuefbkjsbduiwf
+=======
 ub9vsukbvke
 skfjcbsdkjbfsidbfskjbdo
+>>>>>>> dbbd878161b74bd09cdbf1789263e0604144f481
